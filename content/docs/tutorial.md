@@ -34,6 +34,7 @@ If these are missing, the upload will **fail**. All of these reside in the **vIn
 | **vInfo** sheet must have at least 1 row | No VMs means there is no inventory to plan |
 | Column **VM ID** must not be null/empty | Used as the primary unique identifier for VMs |
 | Column **VM** (Name) must not be null/empty | Used to identify and display the VM |
+| Column **CLUSTER** must not be null/empty | Used to group VMs by clusters |
 
 #### Soft Requirements (Warnings)
 

@@ -1,5 +1,5 @@
 {
-  "name": "assisted-migration-docs",
+  "name": "openshift-migration-advisor-docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

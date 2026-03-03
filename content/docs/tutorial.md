@@ -19,7 +19,7 @@ This tutorial covers two methods to assess your VMware environment for migration
 
 Upload an existing RVTools export file for instant assessment. Watch the video tutorial below:
 
-<iframe width="700px" height="400px" src="https://embed.app.guidde.com/playbooks/2o11fzpTRbEM2uDjauyBCi" title="Assisted Migration Using RVtools Flow" frameborder="0" referrerpolicy="unsafe-url" allowfullscreen="true" style="border-radius: 10px"></iframe>
+<iframe width="700px" height="400px" src="https://embed.app.guidde.com/playbooks/2o11fzpTRbEM2uDjauyBCi" title="OpenShift Migration Advisor Using RVtools Flow" frameborder="0" referrerpolicy="unsafe-url" allowfullscreen="true" style="border-radius: 10px"></iframe>
 
 ### Prerequisites: RVTools File Requirements
 
@@ -108,7 +108,7 @@ Export your RVTools data with **all sheets enabled** to ensure the most comprehe
 
 Deploy a discovery agent to your vCenter for live environment analysis. Watch the video tutorial below:
 
-<iframe width="700px" height="400px" src="https://embed.app.guidde.com/playbooks/cZNzDp6dWjJ5UKdwozk3gc?mode=videoOnly" title="Configure Assisted Migration Agent Flow in Red Hat" frameborder="0" referrerpolicy="unsafe-url" allowfullscreen="true" allow="clipboard-write" sandbox="allow-popups allow-popups-to-escape-sandbox allow-scripts allow-forms allow-same-origin allow-presentation" style="border-radius: 10px"></iframe>
+<iframe width="700px" height="400px" src="https://embed.app.guidde.com/playbooks/cZNzDp6dWjJ5UKdwozk3gc?mode=videoOnly" title="Configure OpenShift Migration Advisor Agent Flow in Red Hat" frameborder="0" referrerpolicy="unsafe-url" allowfullscreen="true" allow="clipboard-write" sandbox="allow-popups allow-popups-to-escape-sandbox allow-scripts allow-forms allow-same-origin allow-presentation" style="border-radius: 10px"></iframe>
 
 ### Go to [console.redhat.com](https://console.redhat.com)
 

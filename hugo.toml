@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Assisted Migration'
+title = 'OpenShift Migration Advisor'
 theme = 'docsy'
 
 [params]

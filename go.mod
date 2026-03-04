@@ -1,4 +1,4 @@
-module github.com/kubev2v/assisted-migration-docs
+module github.com/kubev2v/openshift-migration-advisor-docs
 
 go 1.24.10
 

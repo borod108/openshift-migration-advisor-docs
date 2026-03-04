@@ -1,1 +1,1 @@
-# assisted-migration-docs.github.io
+# openshift-migration-advisor-docs.github.io
